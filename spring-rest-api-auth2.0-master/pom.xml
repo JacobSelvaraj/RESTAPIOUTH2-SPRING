@@ -14,7 +14,7 @@
 		<springsecurityoauth2.version>2.0.10.RELEASE</springsecurityoauth2.version>
 		<hibernate.version>4.3.10.Final</hibernate.version>
 		<mysql.connector.version>5.1.31</mysql.connector.version>
-		<jackson.version>2.5.3</jackson.version>
+		<jackson.version>2.9.10.1</jackson.version>
 		<log4j.version>2.3</log4j.version>
 	</properties>
 
